@@ -1,1 +1,1 @@
-# js-ecommerce
+# learning-js-ecommerce
